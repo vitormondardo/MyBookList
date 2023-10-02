@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/vitor/Downloads/vaadin-work-main/vaadin-work-main/mybooklist/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/vitor/Downloads/vaadin-work-main/vaadin-work-main/mybooklist/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/vitor/Downloads/vaadin-work-main/vaadin-work-main/mybooklist/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\vitor\\Downloads\\vaadin-work-main\\vaadin-work-main\\mybooklist\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\vitor\\Downloads\\vaadin-work-main\\vaadin-work-main\\mybooklist\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/vitor/Downloads/vaadin-work-main/vaadin-work-main/mybooklist/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/vitor/Downloads/vaadin-work-main/vaadin-work-main/mybooklist/src/main/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/vitor/Downloads/vaadin-work-main/vaadin-work-main/mybooklist/frontend/generated/jar-resources",
+  "themeName": "mybooklist",
+  "clientServiceWorkerSource": "C:\\Users\\vitor\\Downloads\\vaadin-work-main\\vaadin-work-main\\mybooklist\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
